@@ -1,0 +1,57 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 60px;
+    margin: 80px;
+}
+
+.orenge-color {
+    color: orangered;
+}
+
+.gray-color {
+    color: rgb(102, 101, 101);
+}
+
+.color-add {
+    color: rgb(107, 103, 103);
+}
+
+p {
+    font-size: 30px;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 90%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgba(240, 109, 86, 0.849));
+    color: white;
+    font-weight: 700;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+
+.half-width {
+    width: 50%;
+    padding-right: 5%;
+}
+
+.About-Me {
+    background-image: url(imeage/);
+    background-repeat: no-repeat;
+}
